@@ -1,1 +1,1 @@
-# My Data Analyst projects using Python.
+My Data Analyst projects using Python.
