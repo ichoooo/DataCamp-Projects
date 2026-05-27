@@ -8,3 +8,9 @@ This project offers a hands-on opportunity to explore how data-driven insights c
 - `Assignments`: Details about each project, including its name, duration (start and end dates), budget, geographical region, and the impact score.
 - `Donations`: Records of financial contributions, linked to specific donors and assignments, highlighting how financial support is allocated and utilized.
 - `Donors`: Information on individuals and organizations that fund GoodThought’s projects, including donor types.
+
+Refer to the below ERD diagram for a visual representation of the relationships between these data tables:
+
+<img width="835" height="450" alt="erd" src="https://github.com/user-attachments/assets/1ff782d3-7738-4273-954d-ae44ea348f9a" />
+
+You will execute SQL queries to answer two questions, as listed in the instructions. Good luck!
