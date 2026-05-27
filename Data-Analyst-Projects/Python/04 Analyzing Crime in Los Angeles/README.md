@@ -11,3 +11,5 @@ You have been asked to support the Los Angeles Police Department (LAPD) by analy
 They have provided you with a single dataset to use. A summary and preview are provided below.
 
 It is a modified version of the original data, which is publicly available from Los Angeles Open Data.
+
+<img width="940" height="1020" alt="image" src="https://github.com/user-attachments/assets/3f959d2e-cacf-40ea-b153-6e564b464ca6" />
