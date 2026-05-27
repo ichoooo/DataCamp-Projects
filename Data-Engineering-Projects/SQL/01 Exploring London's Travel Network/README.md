@@ -11,6 +11,7 @@ Emirates Airline cable car), roads, and even taxis.
 The Mayor of London's office make their data available to the public here. In this project, you will work with a slightly modified version of a dataset containing information about public transport journey volume by transport type.
 
 The data has been loaded into a **Snowflake** database called `TFL` with a single table called `JOURNEYS`, including the following data:
+
 <img width="580" height="267" alt="image" src="https://github.com/user-attachments/assets/4112ffe2-e0ff-4f72-8853-3d36bd0848f6" />
 
 Note that _in Snowflake all databases, tables, and columns are **upper case**_ by default.
