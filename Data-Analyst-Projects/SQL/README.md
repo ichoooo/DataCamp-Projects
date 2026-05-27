@@ -1,1 +1,1 @@
-# DataCamp SQL Projects
+# Data Analyst projects using SQL
