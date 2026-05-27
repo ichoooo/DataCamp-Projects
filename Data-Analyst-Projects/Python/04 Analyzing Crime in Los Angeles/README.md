@@ -1,5 +1,6 @@
 # Analyzing Crime in Los Angeles
 <img width="500" height="281" alt="la_skyline" src="https://github.com/user-attachments/assets/f7404ece-88ee-4345-b81c-ea4c168adb68" />
+
 Los Angeles, California 😎. The City of Angels. Tinseltown. The Entertainment Capital of the World!
 
 Known for its warm weather, palm trees, sprawling coastline, and Hollywood, along with producing some of the most iconic films and songs. However, as with any highly populated city, it isn't always glamorous and there can be a large volume of crime. That's where you can help!
